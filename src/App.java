@@ -16,7 +16,7 @@ public class App {
         book.display();
 
 
-        //-----data passing using as user inputs---------------
+        //-----data passing as user inputs---------------
         System.out.print(Color.ANSI_GREEN + "\nEnter Book Title : " + Color.ANSI_RESET);
         title = scanner.nextLine();
 
