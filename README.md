@@ -36,8 +36,9 @@ This class should include a constructor and the following methods:
 - getBookISBN: to get the ISBN of the book. 
 - printDetails: to print the information of a book in the following form: 
  
- Book Title: Object First with Java 
-Book Author: David j. Barnes and Michael Kolling 
-Publisher: Prentice Hall
-ISBN: 0 941831 39 6 
+## Output
+> Book Title: Object First with Java 
+> Book Author: David j. Barnes and Michael Kolling 
+> Publisher: Prentice Hall
+> ISBN: 0 941831 39 6 
 
