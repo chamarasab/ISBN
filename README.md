@@ -37,8 +37,8 @@ This class should include a constructor and the following methods:
 - printDetails: to print the information of a book in the following form: 
  
 ## Output
-> - Book Title: Object First with Java 
-> - Book Author: David j. Barnes and Michael Kolling 
-> - Publisher: Prentice Hall
-> - ISBN: 0 941831 39 6 
+> - `Book Title: Object First with Java` 
+> - `Book Author: David j. Barnes and Michael Kolling` 
+> - `Publisher: Prentice Hall`
+> - `ISBN: 94 941 831 396` 
 
